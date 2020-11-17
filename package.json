@@ -21,7 +21,7 @@
     "@linthtml/linthtml": "^0.3.2",
     "@mate-academy/eslint-config": "*",
     "@mate-academy/linthtml-config": "0.0.1",
-    "@mate-academy/scripts": "^0.2.0",
+    "@mate-academy/scripts": "^0.6.7",
     "@mate-academy/stylelint-config": "0.0.9",
     "colors": "^1.3.3",
     "eslint": "^5.16.0",
@@ -40,5 +40,10 @@
   "mateAcademy": {
     "projectType": "layout"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@dogstudio/highway": "^2.2.1",
+    "fullpage": "^1.5.1",
+    "fullpage.js": "^3.0.9",
+    "gsap": "^3.5.1"
+  }
 }
